@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Geist:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import "tailwindcss";
+
+/* :root{
+    --primary-color: red;
+} */
+
+@theme{
+    --color-primary: oklch(64.5% 0.246 16.439);
+    --font-display: "Manrope", sans-serif;
+    --font-paaji: "Oswald", sans-serif;
+}
+
+/* @theme{
+    --color-primary: oklch(68.5% 0.169 237.323)
+} */
